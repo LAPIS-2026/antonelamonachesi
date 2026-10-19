@@ -1,0 +1,3 @@
+[submodule "pyds9plugin"]
+	path = pyds9plugin
+	url = https://github.com/LAPIS-2026/pyds9plugin.git
